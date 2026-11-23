@@ -2,7 +2,11 @@
 
 ### An opinionated academic Quarto theme for RevealJS
 
-**Academica** is an academic presentation theme for [Quarto](https://quarto.org), built on [RevealJS](https://quarto.org/docs/presentations/revealjs/) and distributed as a [Quarto extension](https://quarto.org/docs/extensions/). It provides a consistent visual identity and opinionated defaults for creating academic presentations.
+**Academica** is an academic presentation theme for [Quarto](https://quarto.org),
+built on [RevealJS](https://quarto.org/docs/presentations/revealjs/) and 
+distributed as a [Quarto extension](https://quarto.org/docs/extensions/). It 
+provides a consistent visual identity and opinionated defaults for creating 
+academic presentations.
 
 
 ![](images/screenshot.png)
@@ -12,7 +16,8 @@
 
 ### Existing project
 
-To add **Academica** to an existing Quarto project, run the following command in a terminal:
+To add **Academica** to an existing Quarto project, run the following command 
+in a terminal:
 
 ```bash
 quarto add frbcesab/academica-revealjs
@@ -20,7 +25,8 @@ quarto add frbcesab/academica-revealjs
 
 This installs the extension in the `_extensions/` directory of your project.
 
-To use **Academica**, set the following format in the YAML header of your `.qmd` file:
+To use **Academica**, set the following format in the YAML header of your 
+`.qmd` file:
 
 ```yaml
 format: academica-revealjs
@@ -28,7 +34,8 @@ format: academica-revealjs
 
 ### New project
 
-**Academica** also provides a starter template to help you create a new presentation.
+**Academica** also provides a starter template to help you create a new 
+presentation.
 
 Run the following command in a terminal:
 
@@ -36,10 +43,26 @@ Run the following command in a terminal:
 quarto use template frbcesab/academica-revealjs
 ```
 
-This creates a new project based on the Academica template, ready for you to customize.
+This creates a new project based on the Academica template, ready for you to 
+customize.
 
 
 ## Features
+
+**Academica** extends Quarto and RevealJS with a collection of visual 
+enhancements and layout utilities:
+
+- **Custom title slide** and **footer** — Flexible layouts with support for 
+creator profiles, social links, and institutional affiliations.
+- **Grid layout** — Flexible grid system for organizing slide content.
+- **Custom block quotes** — Enhanced styling for quotations and highlighted 
+statements.
+- **CSS utility classes** — Classes for controlling element width, size, 
+positioning, alignment, and text emphasis.
+- **Custom visual identity** — Consistent typography, colors, and styling 
+throughout the presentation.
+
+Check out the [**demo presentation**]() to explore all features in action.
 
 
 ## Format options
@@ -88,6 +111,8 @@ logo: "assets/logo-brand.png"
 favicon: "assets/favicon-32x32.png"
 
 lang: en
+date: today
+date-format: "MMMM YYYY"
 
 creators:
   - name: "Nicolas Casajus"
@@ -105,13 +130,6 @@ creators:
         url: "https://www.fondationbiodiversite.fr/en/about-the-foundation/le-cesab/"
 ---
 ```
-
-
-
-
-## Example
-
-Here is the source code for a minimal sample document: [example.qmd](example.qmd).
 
 
 ## License
