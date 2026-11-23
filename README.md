@@ -43,7 +43,7 @@ Run the following command in a terminal:
 quarto use template frbcesab/academica-revealjs
 ```
 
-This creates a new project based on the Academica template, ready for you to 
+This creates a new project based on the **Academica** template, ready for you to 
 customize.
 
 
@@ -53,7 +53,7 @@ customize.
 enhancements and layout utilities:
 
 - **Custom title slide** and **footer** — Flexible layouts with support for 
-creator profiles, social links, and institutional affiliations.
+author profiles, social links, and institutional affiliations.
 - **Grid layout** — Flexible grid system for organizing slide content.
 - **Custom block quotes** — Enhanced styling for quotations and highlighted 
 statements.
@@ -62,7 +62,7 @@ positioning, alignment, and text emphasis.
 - **Custom visual identity** — Consistent typography, colors, and styling 
 throughout the presentation.
 
-Check out the [**demo presentation**]() to explore all features in action.
+Check out the [**demo presentation**](#) to explore all features in action.
 
 
 ## Format options
