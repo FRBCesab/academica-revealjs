@@ -5,6 +5,8 @@
 **Academica** is an academic presentation theme for [Quarto](https://quarto.org), built on [RevealJS](https://quarto.org/docs/presentations/revealjs/) and distributed as a [Quarto extension](https://quarto.org/docs/extensions/). It provides a consistent visual identity and opinionated defaults for creating academic presentations.
 
 
+![](images/screenshot.png)
+
 
 ## Installation
 
