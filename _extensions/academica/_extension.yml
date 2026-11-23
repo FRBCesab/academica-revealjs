@@ -16,7 +16,7 @@ contributes:
       date-format: "MMMM YYYY"
 
       filters:
-        - favicon.lua
+        - filters/favicon.lua
 
       template-partials:
         - _partials/title-slide.html
