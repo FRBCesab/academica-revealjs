@@ -7,7 +7,7 @@ contributes:
   formats:
     revealjs:
 
-      theme: [default, main.scss]
+      theme: [default, scss/main.scss]
       syntax-highlighting: arrow
 
       logo: assets/logo-brand.png
