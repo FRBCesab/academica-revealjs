@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Academica: An opinionated academic Quarto theme for RevealJS"
+message: "If you use this project, please cite it as below."
+type: software
+authors:
+  - family-names: "Casajus"
+    given-names: "Nicolas"
+    orcid: "https://orcid.org/0000-0002-5537-5294"
+repository-code: "https://github.com/frbcesab/academica-revealjs"
+license: "MIT"
+date-released: "2026-11-23"
+version: 0.1.0
