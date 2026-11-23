@@ -46,7 +46,7 @@ Please read the Quarto extension [Documentation](https://github.com/FRBCesab/aca
 :::
 
 ::: {.g-col-6 .box-shadow}
-Get inspiration from the<br>[Demo presentation](https://frbcesab.github.io/academia-revealjs-demo/)
+Get inspiration from the<br>[Demo presentation](https://frbcesab.github.io/academica-revealjs-demo/)
 :::
 
 :::

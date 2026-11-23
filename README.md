@@ -63,7 +63,7 @@ positioning, alignment, and text emphasis.
 throughout the presentation.
 
 Check out the 
-[**demo presentation**](https://frbcesab.github.io/academia-revealjs-demo/) to 
+[**demo presentation**](https://frbcesab.github.io/academica-revealjs-demo/) to 
 explore all features in action.
 
 
