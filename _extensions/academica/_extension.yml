@@ -10,7 +10,8 @@ contributes:
       theme: [default, scss/main.scss]
       syntax-highlighting: arrow
 
-      logo: assets/logo-brand.png
+      logo: assets/default-logo.png
+      favicon: assets/default-favicon.png
 
       date: today
       date-format: "MMMM YYYY"
@@ -21,6 +22,13 @@ contributes:
       template-partials:
         - _partials/title-slide.html
 
+      include-in-header:
+        - text: |
+            <link
+              rel="stylesheet"
+              href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+            />
+      
       link-external-newwindow: true
 
       hash: true
