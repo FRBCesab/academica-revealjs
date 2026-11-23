@@ -1,0 +1,53 @@
+---
+format: academica-revealjs
+
+title: "Title slide"
+subtitle: "Subtitle slide"
+
+footer: >
+  This is
+  a footer
+    
+# image: "assets/default-image.png"
+# logo: "assets/logo-brand.png"
+# favicon: "assets/default-favicon.png"
+
+lang: en
+date: today
+date-format: "MMMM YYYY"
+
+creators:
+  - name: "Jane Doe"
+
+    position: "Quarto expert"
+
+    socials:
+      email: "jane.doe@mail.com"
+      website: "https://..."
+      github: "https://..."
+      orcid: "0000-0000-0000-0000"
+      scholar: "https://..."
+
+    affiliations:
+      - name: "Fake institute"
+        url: "https://..."
+---
+
+
+## Resources
+
+::: {.vspace-2xl}
+:::
+
+::: {.grid .g-gap-4 .text-center}
+
+::: {.g-col-6 .box-shadow}
+Please read the Quarto extension [Documentation](https://github.com/FRBCesab/academica-revealjs/)
+:::
+
+::: {.g-col-6 .box-shadow}
+Get inspiration from the<br>[Demo presentation](https://frbcesab.github.io/academia-revealjs-demo/)
+:::
+
+:::
+
