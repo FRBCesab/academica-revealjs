@@ -61,6 +61,8 @@ Use the following YAML options to customize the title slide and the footer:
 | `creators.affiliations.name`   | Name of the creator's affiliation             |
 | `creators.affiliations.url`    | URL of the creator's affiliation              |
 
+**Note:** Replace `<service>` in `creators.socials.<service>` with one of the following values:  `orcid`, `email`, `website`, `github`, `scholar`
+
 
 Example:
 
