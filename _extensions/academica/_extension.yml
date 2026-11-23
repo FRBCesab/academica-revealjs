@@ -22,6 +22,9 @@ contributes:
       template-partials:
         - _partials/title-slide.html
 
+      resources:
+        - assets/orcid.svg
+
       include-in-header:
         - text: |
             <link
