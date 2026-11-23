@@ -62,7 +62,9 @@ positioning, alignment, and text emphasis.
 - **Custom visual identity** — Consistent typography, colors, and styling 
 throughout the presentation.
 
-Check out the [**demo presentation**](#) to explore all features in action.
+Check out the 
+[**demo presentation**](https://frbcesab.github.io/academia-revealjs-demo/) to 
+explore all features in action.
 
 
 ## Format options
