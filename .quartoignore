@@ -1,0 +1,7 @@
+# Files kept out of a project created by `quarto use template`.
+# Quarto already excludes dot files, README.md, CHANGELOG.md, LICENSE,
+# COPYING.md, COPYRIGHT, CLAUDE.md, and AGENTS.md, so only what it misses
+# is listed here.
+
+images
+CITATION.cff
