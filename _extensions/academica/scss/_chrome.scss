@@ -53,16 +53,20 @@
   bottom: 20px !important;
 }
 
+.reveal .footer p {
+  font-weight: $academica-font-regular;
+}
+
 
 // Footer links
 
 .reveal .footer a {
   text-decoration: none;
+  font-weight: $academica-font-regular;
 
   &:hover {
     text-decoration: none;
   }
-
 }
 
 

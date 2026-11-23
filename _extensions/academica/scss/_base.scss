@@ -34,7 +34,7 @@
 .reveal {
 
   p {
-    font-weight: $academica-font-light;
+    font-weight: $academica-font-lighter;
     font-size: 0.9em;
     margin-top: 1em;
   }
@@ -48,7 +48,7 @@
 .reveal {
 
   ul, ol {
-    font-weight: $academica-font-light;
+    font-weight: $academica-font-lighter;
     font-size: 0.9em;
     padding-left: 16px;
   }
@@ -104,11 +104,11 @@
   }
 
   em {
-    font-weight: $academica-font-regular;
+    font-weight: $academica-font-light;
   }
 
   del {
-    text-decoration-thickness: 2px;
+    text-decoration-thickness: 3px;
   }
 }
 
@@ -129,7 +129,7 @@
    ======================================== */
 
 .reveal .slide figure figcaption {
-  font-weight: $academica-font-light;
+  font-weight: $academica-font-lighter;
   font-size: 0.65em;
   color: $academica-figure-caption-color;
   margin-top: 0 !important;
